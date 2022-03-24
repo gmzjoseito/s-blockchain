@@ -1,0 +1,20 @@
+{
+  "name": "s-blockchain",
+  "version": "1.0.0",
+  "description": "Practice of blockchain development, creating the smallest blockchain ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmzjoseito/s-blockchain.git"
+  },
+  "keywords": [],
+  "author": "Jose Gomez <gmzjoseito@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmzjoseito/s-blockchain/issues"
+  },
+  "homepage": "https://github.com/gmzjoseito/s-blockchain#readme"
+}
