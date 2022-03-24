@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gmzjoseito/s-blockchain/issues"
   },
-  "homepage": "https://github.com/gmzjoseito/s-blockchain#readme"
+  "homepage": "https://github.com/gmzjoseito/s-blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
 }
